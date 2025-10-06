@@ -1,1 +1,49 @@
-# ATS-Job-Tracker
+# ATS-Job-Tracker Automation
+
+> Automate job discovery across 16+ Applicant Tracking Systems (ATS) — Greenhouse, Lever, Workday, Ashby, BambooHR, and more — using **Google Apps Script + Custom Search API**.
+
+[![Made with Google Apps Script](https://img.shields.io/badge/Made%20with-Google%20Apps%20Script-blue?logo=google)](https://script.google.com/)
+[![Google Sheets](https://img.shields.io/badge/Powered%20by-Google%20Sheets-34A853?logo=google-sheets)](https://sheets.google.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Automation Level](https://img.shields.io/badge/Automation-100%25-success)](#)
+[![Stars](https://img.shields.io/github/stars/yourusername/ats-job-tracker?style=social)](https://github.com/yourusername/ats-job-tracker)
+
+---
+
+## Overview
+
+This project automatically tracks newly posted jobs across major ATS platforms (like Greenhouse, Lever, Workday, BambooHR, etc.) and logs them into Google Sheets in real time.  
+You can set it to run **hourly**, send **email alerts**, and even integrate with Telegram or Slack later.  
+
+---
+
+## Tech Stack
+
+| Component | Description |
+|------------|--------------|
+| **Google Apps Script** | Backend automation & triggers |
+| **Google Custom Search API** | Fetches job postings |
+| **Google Sheets** | Data logging layer |
+| **Google Cloud Console** | API credentials management |
+
+---
+
+## Features
+
+✅ Fetches fresh jobs every hour  
+✅ Supports 16+ ATS systems  
+✅ Logs titles, companies, and links  
+✅ Optional email alerts  
+✅ 100% serverless — runs on free Google infra  
+✅ No paid tools or external dependencies  
+
+---
+
+## Architecture
+
+```text
+[Google Custom Search API]
+          ↓
+ [Apps Script fetchATSJobs()]
+          ↓
+ [Google Sheet Logger] → [Email Alert (optional)]
