@@ -49,3 +49,9 @@ You can set it to run **hourly**, send **email alerts**, and even integrate with
  [Google Sheet Logger] → [Email Alert (optional)]
 
 
+
+| Google Sheet Output                           | Email Alert                            | Apps Script Trigger                             |
+| --------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
+| ![sheet](screenshots/google_sheet_output.png) | ![email](screenshots/email_sample.png) | ![trigger](screenshots/apps_script_trigger.png) |
+
+
