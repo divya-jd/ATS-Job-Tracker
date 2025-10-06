@@ -6,7 +6,7 @@
 [![Google Sheets](https://img.shields.io/badge/Powered%20by-Google%20Sheets-34A853?logo=google-sheets)](https://sheets.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Automation Level](https://img.shields.io/badge/Automation-100%25-success)](#)
-[![Stars](https://img.shields.io/github/stars/yourusername/ats-job-tracker?style=social)](https://github.com/divya-jd/ATS-Job-Tracker)
+[![Stars](https://img.shields.io/github/stars/divya-jd/ats-job-tracker?style=social)](https://github.com/divya-jd/ATS-Job-Tracker)
 
 ---
 
