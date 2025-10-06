@@ -50,8 +50,3 @@ You can set it to run **hourly**, send **email alerts**, and even integrate with
 
 
 
-| Google Sheet Output                           | App Script                            | Apps Script Trigger                             |
-| --------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
-| ![sheet](Screenshots/Google Sheet Output .png) | ![appscript](Screenshots/App Script.png) | ![trigger](Screenshots/App Script Trigger.png) |
-
-
