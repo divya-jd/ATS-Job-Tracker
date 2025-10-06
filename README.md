@@ -6,7 +6,7 @@
 [![Google Sheets](https://img.shields.io/badge/Powered%20by-Google%20Sheets-34A853?logo=google-sheets)](https://sheets.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Automation Level](https://img.shields.io/badge/Automation-100%25-success)](#)
-[![Stars](https://img.shields.io/github/stars/yourusername/ats-job-tracker?style=social)](https://github.com/yourusername/ats-job-tracker)
+[![Stars](https://img.shields.io/github/stars/yourusername/ats-job-tracker?style=social)](https://github.com/divya-jd/ATS-Job-Tracker)
 
 ---
 
@@ -30,12 +30,12 @@ You can set it to run **hourly**, send **email alerts**, and even integrate with
 
 ## Features
 
-✅ Fetches fresh jobs every hour  
-✅ Supports 16+ ATS systems  
-✅ Logs titles, companies, and links  
-✅ Optional email alerts  
-✅ 100% serverless — runs on free Google infra  
-✅ No paid tools or external dependencies  
+1. Fetches fresh jobs every hour  
+2. Supports 16+ ATS systems  
+3. Logs titles, companies, and links  
+4. Optional email alerts  
+5. 100% serverless — runs on free Google infra  
+6. No paid tools or external dependencies  
 
 ---
 
